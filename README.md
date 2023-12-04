@@ -1,7 +1,11 @@
 # TON Blockchain Apocryphal Proposals (beta)
 
-
 > :warning: **WARNING:** this this stupid joke only no asspain please...
+
+## Legacy History TEPs
+| TEP                                          | Title                              | Type               | Created    |
+|----------------------------------------------|------------------------------------|--------------------|------------|
+| [1](./01-abt-standard.md)                    | Address Bound Token standard       | interface          | 03.12.2023 |
 
 ## Legacy History TEPs
 | TEP                                          | Title                              | Type               | Created    |
